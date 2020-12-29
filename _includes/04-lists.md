@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## List
+-code
+-sleep
+-eat
+-bike
+-travel
+-concerts
