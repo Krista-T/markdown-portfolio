@@ -1,1 +1,1 @@
-[my profile]https://github.com/Krista-T
+[my profile](https://github.com/Krista-T)
