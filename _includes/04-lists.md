@@ -1,7 +1,7 @@
 ## List
--code
--sleep
--eat
--bike
--travel
--concerts
+- code
+- sleep
+- eat
+- bike
+- travel
+- concerts
